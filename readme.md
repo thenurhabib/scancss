@@ -22,7 +22,7 @@
 
 <hr>
 
-### scancss is a fastest tool to detect Cross Site automatically and it's also an intelligent payload generator.
+### scancss is a fastest tool to detect Cross Site scripting (XSS) automatically and it's also an intelligent payload generator.
 
 <br>
 
