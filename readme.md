@@ -8,15 +8,6 @@
 
 <h4 align="center">Fastest tool to find XSS.</h4>
 
-<p align="center">
-  <a href="https://github.com/thenurhabib/scancss/releases">
-    <img src="https://img.shields.io/github/release/thenurhabib/scancss.svg">
-  </a>
-  <a href="https://travis-ci.com/thenurhabib/scancss">
-    <img src="https://img.shields.io/travis/com/thenurhabib/scancss.svg">
-  </a>
-  
-</p>
 
 ![multiple xss](./img/ss2.png)
 
