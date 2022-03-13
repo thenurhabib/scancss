@@ -47,16 +47,9 @@
 git clone https://github.com/thenurhabib/scancss.git
 cd scancss
 python -m pip install -r requirements.txt
-chmod +x install.sh uninstall.sh 
-sudo ./install.sh
+python3 scancss.py --help
 ```
 
-<br>
-
-### Uninstall
-```yaml
-sudo ./uninstall.sh
-```
 
 #### Usage
 
